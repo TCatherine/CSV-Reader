@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/csv-reader.dir/src/main.cpp.o CMakeFiles/csv-reader.dir/src/reader.cpp.o -o csv-reader 
